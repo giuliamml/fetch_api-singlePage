@@ -1,0 +1,1 @@
+single web page fetching data from API: https://api.pokemontcg.io/ 
